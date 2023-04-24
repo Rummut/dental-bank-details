@@ -1,0 +1,59 @@
+h1,
+h2,
+h3,
+h4,
+h5,
+p {
+  margin: 0;
+}
+
+ul {
+margin: 0;
+padding: 0;
+list-style: none;
+}
+img {
+  display: block;
+  max-width: 100%;
+  height: auto;
+}
+body {
+    font-family: 'Montserrat', sans-serif;
+  background-color: #fff;
+  padding: 32px 0;
+}
+
+.container {
+  width: 100%;
+  padding: 0 36px;
+  margin: 0 auto;
+}
+
+    .logo-dental {
+       width: 100%;
+    }
+  .title-dental {
+    text-align: center;
+    margin: 16px 0;
+    color: #830010;
+
+  }
+  .title-dental-letter {
+    color: #777779;
+  }
+  .desc-dental {
+    font-weight: 600;
+        font-size: 16px;
+        line-height: 1.5;
+    text-align: left;
+    color: #3A3E3D ;
+  }
+  .list-dental {
+    font-weight: 500;
+    margin: 16px 0;
+
+  }
+  .details-dental {
+    font-weight: 600;
+    color: #830010;
+  }
